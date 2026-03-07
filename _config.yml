@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: "main/(root)"
+
 incremental: false
 highlighter: rouge
 theme: jekyll-theme-midnight
