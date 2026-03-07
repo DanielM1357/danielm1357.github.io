@@ -9,8 +9,8 @@ permalink: /about/
 In order to make your own website via GitHub first create a repository which has
 to exactly be named as your username. For example if call the repository **max**, if your username is **max**.
 The repository must be set to public so that the website can be deployed. Choose the branch you want to use for the website:
-* go to settings \- pages
-* choose the branch, you want to use \- if you want to use main branch choose main: /(root)
+1. go to settings \- pages
+2. choose the branch, you want to use \- if you want to use main branch choose main: /(root)
 
 I would recommend to clone your repository on your locally machine and edit/push your files from there. 
 To edit your website you can create and edit files in your website branch. For example you can create a _config.yml 
@@ -43,6 +43,6 @@ You could have a simple life and just do it like me:
 
 ### Links to my further pages:
 
-[Main page](/index/)
+* [Main page](/index/)
 
-[Lorem ipsum](/lorem/)
+* [Lorem ipsum](/lorem/)
