@@ -3,7 +3,7 @@ safe: true
 source: "main/(root)"
 incremental: false
 highlighter: rouge
-theme: midnight
+theme: jekyll-theme-midnight
 gist:
   noscript: false
 kramdown:
