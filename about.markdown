@@ -41,8 +41,8 @@ You could have a simple life and just do it like me:
     can relax in the sun!
 ```
 
-### Link to my further pages:
+### Links to my further pages:
 
-[Main page](index)
+[Main page](/index/)
 
-[Lorem ipsum](ipsum)
+[Lorem ipsum](/lorem/)

@@ -25,8 +25,8 @@ Early computers were meant to be used only for calculations. Simple manual instr
 Article from [Wikipedia](https://en.wikipedia.org/wiki/Computer)
 
 
-### Link to my further pages:
+### Links to my further pages:
 
-[Short introduction into Jekyll](about) 
+[Short introduction into Jekyll](/about/) 
 
-[Lorem ipsum](ipsum)
+[Lorem ipsum](/lorem/)
