@@ -25,7 +25,8 @@ The answer is very simple, because with markdown you can write it very quickly. 
 
 ```html 
     <h1> This is my first Website!</h1>
-        <p> Hello World! Welcome to my first website, which I wrote with very much effort having to make an opening
+        <p> Hello World! Welcome to my first website, which I wrote with 
+        very much effort having to make an opening
         and closing tag for every element I write!
         </p>
 ```
@@ -35,6 +36,8 @@ You could have a simple life and just do it like me:
 ```markdown
     # This is my second Website!
     
-    Hello World! I hope you can see how less effort I had writing this webpage. While my prior me would still be writing
-    hours for this I am done now and can relax in the sun
+    Hello World! I hope you can see how less effort I had writing this webpage. 
+    While my prior me would still be writing hours for this I am done now and 
+    can relax in the sun!
 ```
+
