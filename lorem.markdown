@@ -21,7 +21,7 @@ Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming 
 
 ### Links to my further pages:
 
-[Main page](/index/)
+* [Main page](/index/)
 
-[Short introduction into Jekyll](/about/) 
+* [Short introduction into Jekyll](/about/) 
 

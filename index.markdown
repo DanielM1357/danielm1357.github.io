@@ -27,6 +27,6 @@ Article from [Wikipedia](https://en.wikipedia.org/wiki/Computer)
 
 ### Links to my further pages:
 
-[Short introduction into Jekyll](/about/) 
+* [Short introduction into Jekyll](/about/) 
 
-[Lorem ipsum](/lorem/)
+* [Lorem ipsum](/lorem/)
