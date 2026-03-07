@@ -16,6 +16,7 @@ My name is Daniel and I am learning all about programming and stuffs in the info
 ## History of computers
 
 ![Beispielbild eines Computers](pc.jgp)
+
 Source - [Unsplash by Bert](https://unsplash.com/de/fotos/weisser-macintosh-computer-Zd6PL6PSW5E?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 A computer is a machine that can be programmed to automatically carry out sequences of arithmetic or logical operations (computation). Modern digital electronic computers can perform generic sets of operations known as programs, which enable computers to perform a wide range of tasks. The term computer system may refer to a nominally complete computer that includes the hardware, operating system, software, and peripheral equipment needed and used for full operation, or to a group of computers that are linked and function together, such as a computer network or computer cluster.
@@ -29,5 +30,5 @@ Source - [Wikipedia](https://en.wikipedia.org/wiki/Computer)
 
 ### Link to my further pages:
 
-    1. Short introduction into Jekyll - [about](danielm1357.github.io/about) 
-    2. Lorem ipsum with lorem ipsum - [lorem](danielm1357.github.io/ipsum)
+[Short introduction into Jekyll](danielm1357.github.io/about) 
+[Lorem ipsum with lorem ipsum](danielm1357.github.io/ipsum)
