@@ -15,7 +15,7 @@ My name is Daniel and I am learning all about programming and stuffs in the info
 
 ## History of computers
 
-![Beispielbild eines Computers]({% link pc.jgp %})
+![Beispielbild eines Computers](pc.jgp)
 
 Source - [Unsplash by Bert](https://unsplash.com/de/fotos/weisser-macintosh-computer-Zd6PL6PSW5E?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
@@ -31,4 +31,5 @@ Source - [Wikipedia](https://en.wikipedia.org/wiki/Computer)
 ### Link to my further pages:
 
 [Short introduction into Jekyll](danielm1357.github.io/about) 
+
 [Lorem ipsum with lorem ipsum](danielm1357.github.io/ipsum)
