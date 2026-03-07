@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 title: About
 permalink: /index/
@@ -30,6 +27,6 @@ Article from [Wikipedia](https://en.wikipedia.org/wiki/Computer)
 
 ### Link to my further pages:
 
-[Short introduction into Jekyll](danielm1357.github.io/about) 
+[Short introduction into Jekyll](about) 
 
-[Lorem ipsum with lorem ipsum](danielm1357.github.io/ipsum)
+[Lorem ipsum](ipsum)
