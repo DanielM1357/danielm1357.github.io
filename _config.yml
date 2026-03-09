@@ -21,8 +21,7 @@
 title: Little Introduction into Jekyll Project
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a little school project in order to get into deploying webpages
-  via GitHub using Jekyll and markdown language.
+  This is a test for showing that the header has changed.
   Written by - Daniel Mandl
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
